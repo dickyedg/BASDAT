@@ -1,0 +1,10 @@
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Ekonomi',1,'1 Single bed+Kamar mandi',80,5);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Super Ekonomi',2,'2 Single bed+Kamar mandi',100,5);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Ekonomi AC',1,'1 Single bed+Kamar mandi+AC',100,5);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Super Ekonomi AC',2,'2 Single bed+Kamar mandi+AC',120,5);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Bisnis',1,'1 Single bed+Kamar mandi+AC+TV',200,5);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Super Bisnis',2,'2 Single bed+Kamar mandi+AC+TV',250,5);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Keluarga Ekonomi',4,'1 King size bed+Kamar mandi', 250,4);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Keluarga AC',4,'1 King size bed+Kamar mandi+AC', 300,4);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Keluarga Bisnis',4,'1 King size bed+Kamar mandi+AC+TV',350,4);
+INSERT INTO TIPE_KAMAR(Nama,Kapasitas,Deskripsi,Harga,JumlahRuangan) VALUES( 'Superior',4,'2 King size bed+Kamar mandi+AC+TV',500,2);
